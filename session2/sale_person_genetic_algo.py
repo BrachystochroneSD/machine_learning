@@ -76,7 +76,6 @@ class ADN:
         self.list_cities=cities
         self.fitness=0
         self.score=0
-        self.count=0
 
     def __str__(self):
         res=''
